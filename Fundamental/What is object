@@ -1,0 +1,17 @@
+WHAT IS OBJECT?
+
+What would a junior say? 
+
+An object is an instance of a class. The object represents real word structure in simplified form. It has state and behavior. 
+
+What would a medior say? 
+
+The object is an instance of a class, where class serves to be the form of the instance. Let’s say the class is gingerbread cutter, and the cut-out gingerbread man is an instance, or object. Objects are creating during runtime and they live in the heap memory structure. It has state and behavior represent by methods and data fields. 
+
+What would a senior say? 
+
+The object is an instance of a class, where class serves to be the form of the instance. Let’s say the class is gingerbread cutter, and the cut-out gingerbread man is an instance, or object. The state of the gingerbread man is shape, color, temperature, and behavior “Make people happy, when they eat me”. This analogy has not satisfied us as seniors. In contrast to the gingerbread man, the class may contain definitions of constants, fields, constructors, methods, and more and more depends on the language which you use. 
+
+Typically, developers say “Object lives in heap memory structure”, but it is not the complete  truth. The truth is the value of variables, fields, properties, references at next objects, and overhead of the instance - all those values, the state of the object, are stored in heap. Methods, constructors of a class are stored in specific memory space, however, it depends on specific language. That is quite nice, because we do not want to create the same methods for each new instance. 
+
+How long does instance stay in the heap? For example, Java or C# - until the  garbage collector decides to delete the memory data of the objects. If all references at the object are removed, the object will be deleted by the garbage collector, dependent on the object’s generation, size, and other parameters. However, there are several game-changer, for example, reflection, dynamically typed language…

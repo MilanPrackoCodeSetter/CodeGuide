@@ -4,7 +4,7 @@ What would a junior say?
 
 JS is a dynamically-typed language. A variable has a data type that depends on the current value. On other hand, TS is a strong-typed language, where the variable has a strictly defined data type. 
 
-What would a medior say? 
+What would a medior say?
 
 JS is a dynamically-typed language. A variable has a data type that depends on the current value. There are primitive data types – Number, String, Boolean and structural type – Object. Despite JS is dynamically typed, understanding the data types is very important. 
 

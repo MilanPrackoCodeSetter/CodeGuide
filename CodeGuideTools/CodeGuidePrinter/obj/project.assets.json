@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\CodeGuidePrinter.csproj",
-      "projectName": "CodeGuidePrinter",
-      "projectPath": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\CodeGuidePrinter.csproj",
+      "projectUniqueName": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\Printer.csproj",
+      "projectName": "Printer",
+      "projectPath": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\Printer.csproj",
       "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\obj\\",
       "projectStyle": "PackageReference",

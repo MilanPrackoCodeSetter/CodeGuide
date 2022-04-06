@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ckf+FBr6AUr3C0f5044GNDG8CbOp/0ZXyqc6Ma1aIskRWL7VcdcNDcZCAKhtyzyLvLlfC6Jkkjg+jci1eT78Yg==",
+  "dgSpecHash": "KnZd1suMCBWPOSJSXNnUDeAkcILipJwpea7x84cfHQyt2pgNgF53rh3vqCq+nYJ0RlLyiiMAt1YCqt/NTtcUtQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\CodeGuidePrinter.csproj",
+  "projectFilePath": "C:\\Projects\\CodeGuide\\CodeGuideTools\\CodeGuidePrinter\\Printer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\bin\Debug\net6.0\Printer.exe
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\bin\Debug\net6.0\Printer.deps.json
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\bin\Debug\net6.0\Printer.runtimeconfig.json
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\bin\Debug\net6.0\Printer.dll
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\bin\Debug\net6.0\Printer.pdb
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.csproj.AssemblyReference.cache
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.AssemblyInfoInputs.cache
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.AssemblyInfo.cs
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.csproj.CoreCompileInputs.cache
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.dll
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\refint\Printer.dll
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.pdb
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\Printer.genruntimeconfig.cache
+C:\Projects\CodeGuide\CodeGuideTools\CodeGuidePrinter\obj\Debug\net6.0\ref\Printer.dll

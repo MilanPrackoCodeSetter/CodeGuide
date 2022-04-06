@@ -1,19 +1,23 @@
-Abstraction
-Encapsulation
-Inheritance
-Polymorphism
-Design patterns
-Design anti-patterns
-Architectural patterns
-Enterprise integration patterns
-Dependency injection
-Compositionover inheritance
-Declarative and imperativeparadigm
-Functional and object-oriented programming
-Client-server and P2P architecture
-Thin and rich client
-SOLID principle
-DRYprinciple
-KISSprinciple
-YAGNI principle
-Clean code by Robert C. Martin
+{
+    "Theme":[
+        {"Abstraction"},
+        {"Encapsulation"},
+        {"Inheritance"},
+        {"Polymorphism"},
+        {"Design patterns"},
+        {"Design anti-patterns"},
+        {"Architectural patterns"},
+        {"Enterprise integration patterns"},
+        {"Dependency injection"},
+        {"Compositionover inheritance"},
+        {"Declarative and imperativeparadigm"},
+        {"Functional and object-oriented programming"},
+        {"Client-server and P2P architecture"},
+        {"Thin and rich client"},
+        {"SOLID principle"},
+        {"DRYprinciple"},
+        {"KISSprinciple"},
+        {"YAGNI principle"},
+        {"Clean code by Robert C. Martin"},
+    ]
+}
